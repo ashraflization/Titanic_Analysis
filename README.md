@@ -30,10 +30,8 @@ The analysis revealed three dominant factors affecting survival:
 Here are key plots supporting the findings:
 
 **1. Survival Count by Sex**
-![Survival by Sex Plot](survival_by_sex_bivariate.png) 
-
 **2. Age Distribution by Survival Status**
-![Age Distribution Plot](age_distribution_by_survival.png) 
+
 
 ---
 
